@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books and playing video games.
 - 🌱 I’m currently learning computer science, English, and statistics in UofT.
 - 💞️ I’m looking to collaborate on game design in video games.
-- 📫 How to reach me ...
+- 📫 You can find me at starrydust.02@icloud.com.
 
 <!---
 StarryDust-02/StarryDust-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
